@@ -1,6 +1,6 @@
 # vue-x6-flow
 
-> A Vue.js project
+基于antv-x6 vue版本 vue2.x+antdesign+antv-x6适用于流程图
 
 ## Build Setup
 
