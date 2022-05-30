@@ -3,10 +3,9 @@
 基于antv-x6 vue版本 vue2.x+antdesign+antv-x6适用于流程图
 
 ## 项目效果图
-
-![image](https://user-images.githubusercontent.com/9762767/171014626-094d026d-ba48-40d0-ae67-264dc1652bc9.png)
-![image](https://user-images.githubusercontent.com/9762767/171015196-eed1fee0-939c-43a4-af97-a63a8f851771.png)
-
+![image](https://user-images.githubusercontent.com/9762767/171016275-e96a7d22-4c06-413a-9f82-d5e4a5f5e9dc.png)
+![image](https://user-images.githubusercontent.com/9762767/171016392-3d02dd2b-6882-4d5f-962c-bdbd2b9c8940.png)
+![image](https://user-images.githubusercontent.com/9762767/171016659-79305867-295a-4619-bfaa-48bf9baa105b.png)
 
 ## Build Setup
 
