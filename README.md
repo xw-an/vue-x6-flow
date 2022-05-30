@@ -1,6 +1,6 @@
 # vue-x6-flow
 
-基于antv-x6 vue版本 vue2.x+antdesign+antv-x6适用于流程图
+基于antv-x6 vue版本 vue2.x+antdesign+antv-x6流程图编辑器
 
 ## 项目效果图
 ![image](https://user-images.githubusercontent.com/9762767/171016275-e96a7d22-4c06-413a-9f82-d5e4a5f5e9dc.png)
