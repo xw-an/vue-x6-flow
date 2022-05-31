@@ -82,9 +82,9 @@
         </a-form-item>
       </a-form>
     </a-tab-pane>
-    <a-tab-pane key="2" tab="参数">
-      Content of Tab Pane 2
-    </a-tab-pane>
+<!--    <a-tab-pane key="2" tab="参数">-->
+<!--      Content of Tab Pane 2-->
+<!--    </a-tab-pane>-->
   </a-tabs>
 </template>
 
